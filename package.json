@@ -9,6 +9,7 @@
   "author": "Michail Rigas",
   "license": "ISC",
   "dependencies": {
-    "@faker-js/faker": "^8.3.1"
+    "@faker-js/faker": "^8.3.1",
+    "random-string-generator": "^1.0.1"
   }
 }
